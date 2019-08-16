@@ -1,0 +1,1 @@
+/usr/bin/c++   -g   CMakeFiles/personas.dir/main.cpp.o CMakeFiles/personas.dir/ArrayList.cpp.o CMakeFiles/personas.dir/Personas.cpp.o  -o personas -rdynamic 
